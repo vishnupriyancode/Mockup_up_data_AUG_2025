@@ -1,0 +1,548 @@
+{
+  "Model_1_Positive": [
+    {
+      "template": {
+        "first_proc_cd": "Raju",
+        "last_proc_cd": "Ravindran",
+        "email": "raju.ravindran@gmail.com",
+        "phone": "+1-555-0101",
+        "date_of_birth": "1990-01-15",
+        "street_address": "123 Main Street",
+        "proc_cd": "Raju",
+        "mail_id": "raju.ravindran@gmail.com",
+        "address": "123456",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600001",
+        "country": "India",
+        "PRICNG_ZIP_STATE": "Tamil Nadu",
+        "CLM_TYPE": "OA",
+        "SRVC_FROM_DT": "01/01/2024",
+        "HCID": "123456",
+        "PAT_BRTH_DT": "1990-01-15",
+        "PAT_FRST_NME": "Raju",
+        "PAT_LAST_NME": "Ravindran",
+        "ClaimDetails": [
+          {
+            "proc_cd": "12356",
+            "srvc_from_date": "01/01/2024",
+            "BILL_TYPE": "OA"
+          }
+        ]
+      },
+      "user_profile": {
+        "first_proc_cd": "John",
+        "last_proc_cd": "Smith",
+        "email": "john.smith@email.com",
+        "phone": "+1-555-0102",
+        "date_of_birth": "1990-01-15",
+        "street_address": "123 Main Street",
+        "proc_cd": "Priyan",
+        "mail_id": "Vishnupriyannatarajan@gmail.com",
+        "address": "123456",
+        "city": "Hyderabad",
+        "state": "CA",
+        "zip_code": "90210",
+        "country": "Canada",
+        "PRICNG_ZIP_STATE": "KL",
+        "CLM_TYPE": "P",
+        "SRVC_FROM_DT": "04/20/2025",
+        "HCID": "ABCDEFGHI",
+        "PAT_BRTH_DT": "01/01/1990",
+        "PAT_FRST_NME": "Raj",
+        "PAT_LAST_NME": "Kumar",
+        "ClaimDetails": [
+          {
+            "SRVC_FROM_DT": "12/12/2024",
+            "proc_cd": "67890",
+            "BILL_TYPE": "OA"
+          }
+        ]
+      }
+    },
+    {
+      "template": {
+        "first_proc_cd": "Raju",
+        "last_proc_cd": "Ravindran",
+        "email": "raju.ravindran@gmail.com",
+        "phone": "+1-555-0101",
+        "date_of_birth": "1990-01-15",
+        "street_address": "123 Main Street",
+        "proc_cd": "Raju",
+        "mail_id": "raju.ravindran@gmail.com",
+        "address": "123456",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600001",
+        "country": "India",
+        "PRICNG_ZIP_STATE": "Tamil Nadu",
+        "CLM_TYPE": "OA",
+        "SRVC_FROM_DT": "01/01/2024",
+        "HCID": "123456",
+        "PAT_BRTH_DT": "1990-01-15",
+        "PAT_FRST_NME": "Raju",
+        "PAT_LAST_NME": "Ravindran",
+        "ClaimDetails": [
+          {
+            "proc_cd": "12356",
+            "srvc_from_date": "01/01/2024",
+            "BILL_TYPE": "OA"
+          }
+        ]
+      },
+      "user_profile": {
+        "first_proc_cd": "John",
+        "last_proc_cd": "Smith",
+        "email": "john.smith@email.com",
+        "phone": "+1-555-0101",
+        "date_of_birth": "1990-01-15",
+        "street_address": "456 Oak Avenue",
+        "proc_cd": "Priyan",
+        "mail_id": "Vishnupriyannatarajan@gmail.com",
+        "address": "123456",
+        "city": "Chennai",
+        "state": "NY",
+        "zip_code": "90210",
+        "country": "United States",
+        "PRICNG_ZIP_STATE": "TN",
+        "CLM_TYPE": "P",
+        "SRVC_FROM_DT": "04/20/2025",
+        "HCID": "ABCDEFGHI",
+        "PAT_BRTH_DT": "01/01/1990",
+        "PAT_FRST_NME": "Mohan",
+        "PAT_LAST_NME": "Kumar",
+        "ClaimDetails": [
+          {
+            "SRVC_FROM_DT": "12/12/2024",
+            "proc_cd": "12345",
+            "BILL_TYPE": "OC"
+          }
+        ]
+      }
+    },
+    {
+      "template": {
+        "first_proc_cd": "Raju",
+        "last_proc_cd": "Ravindran",
+        "email": "raju.ravindran@gmail.com",
+        "phone": "+1-555-0101",
+        "date_of_birth": "1990-01-15",
+        "street_address": "123 Main Street",
+        "proc_cd": "Raju",
+        "mail_id": "raju.ravindran@gmail.com",
+        "address": "123456",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600001",
+        "country": "India",
+        "PRICNG_ZIP_STATE": "Tamil Nadu",
+        "CLM_TYPE": "OA",
+        "SRVC_FROM_DT": "01/01/2024",
+        "HCID": "123456",
+        "PAT_BRTH_DT": "1990-01-15",
+        "PAT_FRST_NME": "Raju",
+        "PAT_LAST_NME": "Ravindran",
+        "ClaimDetails": [
+          {
+            "proc_cd": "12356",
+            "srvc_from_date": "01/01/2024",
+            "BILL_TYPE": "OA"
+          }
+        ]
+      },
+      "user_profile": {
+        "first_proc_cd": "John",
+        "last_proc_cd": "Smith",
+        "email": "john.smith@email.com",
+        "phone": "+1-555-0102",
+        "date_of_birth": "1990-01-15",
+        "street_address": "456 Oak Avenue",
+        "proc_cd": "Vishnu",
+        "mail_id": "Vishnupriyannatarajan@gmail.com",
+        "address": "12345",
+        "city": "Chennai",
+        "state": "NY",
+        "zip_code": "90210",
+        "country": "Canada",
+        "PRICNG_ZIP_STATE": "KL",
+        "CLM_TYPE": "P",
+        "SRVC_FROM_DT": "04/20/2025",
+        "HCID": "ABCDEFGHI",
+        "PAT_BRTH_DT": "01/01/1990",
+        "PAT_FRST_NME": "Mohan",
+        "PAT_LAST_NME": "Kumar",
+        "ClaimDetails": [
+          {
+            "SRVC_FROM_DT": "12/12/2024",
+            "proc_cd": "12345",
+            "BILL_TYPE": "OD"
+          }
+        ]
+      }
+    }
+  ],
+  "Model_1_Negative": [
+    {
+      "template": {
+        "first_proc_cd": "Raju",
+        "last_proc_cd": "Ravindran",
+        "email": "raju.ravindran@gmail.com",
+        "phone": "+1-555-0101",
+        "date_of_birth": "1990-01-15",
+        "street_address": "123 Main Street",
+        "proc_cd": "Raju",
+        "mail_id": "raju.ravindran@gmail.com",
+        "address": "123456",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600001",
+        "country": "India",
+        "PRICNG_ZIP_STATE": "Tamil Nadu",
+        "CLM_TYPE": "OA",
+        "SRVC_FROM_DT": "01/01/2024",
+        "HCID": "123456",
+        "PAT_BRTH_DT": "1990-01-15",
+        "PAT_FRST_NME": "Raju",
+        "PAT_LAST_NME": "Ravindran",
+        "ClaimDetails": [
+          {
+            "proc_cd": "12356",
+            "srvc_from_date": "01/01/2024",
+            "BILL_TYPE": "OA"
+          }
+        ]
+      },
+      "user_profile": {
+        "first_proc_cd": "Sarah",
+        "last_proc_cd": "Brown",
+        "email": "sarah.brown@email.com",
+        "phone": "+1-555-0103",
+        "date_of_birth": "1992-07-10",
+        "street_address": "321 Elm Street",
+        "proc_cd": "Raja",
+        "mail_id": "raja.vishnu@email.com",
+        "address": "654321",
+        "city": "Bangalore",
+        "state": "FL",
+        "zip_code": "33101",
+        "country": "UK",
+        "PRICNG_ZIP_STATE": "KT",
+        "CLM_TYPE": "D",
+        "SRVC_FROM_DT": "04/20/2025",
+        "HCID": "ABCDE5555",
+        "PAT_BRTH_DT": "01/03/1990",
+        "PAT_FRST_NME": "Rajesh",
+        "PAT_LAST_NME": "VP",
+        "ClaimDetails": [
+          {
+            "SRVC_FROM_DT": "12/12/2024",
+            "proc_cd": "67890",
+            "BILL_TYPE": "OD"
+          }
+        ]
+      }
+    },
+    {
+      "template": {
+        "first_proc_cd": "Raju",
+        "last_proc_cd": "Ravindran",
+        "email": "raju.ravindran@gmail.com",
+        "phone": "+1-555-0101",
+        "date_of_birth": "1990-01-15",
+        "street_address": "123 Main Street",
+        "proc_cd": "Raju",
+        "mail_id": "raju.ravindran@gmail.com",
+        "address": "123456",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600001",
+        "country": "India",
+        "PRICNG_ZIP_STATE": "Tamil Nadu",
+        "CLM_TYPE": "OA",
+        "SRVC_FROM_DT": "01/01/2024",
+        "HCID": "123456",
+        "PAT_BRTH_DT": "1990-01-15",
+        "PAT_FRST_NME": "Raju",
+        "PAT_LAST_NME": "Ravindran",
+        "ClaimDetails": [
+          {
+            "proc_cd": "12356",
+            "srvc_from_date": "01/01/2024",
+            "BILL_TYPE": "OA"
+          }
+        ]
+      },
+      "user_profile": {
+        "first_proc_cd": "Mike",
+        "last_proc_cd": "Brown",
+        "email": "mike.williams@email.com",
+        "phone": "+1-555-0103",
+        "date_of_birth": "1992-07-10",
+        "street_address": "789 Pine Road",
+        "proc_cd": "Raji",
+        "mail_id": "raja.vishnu@email.com",
+        "address": "123",
+        "city": "Bangalore",
+        "state": "TX",
+        "zip_code": "33101",
+        "country": "UK",
+        "PRICNG_ZIP_STATE": "AP",
+        "CLM_TYPE": "D",
+        "SRVC_FROM_DT": "04/20/2025",
+        "HCID": "ABCDE5555",
+        "PAT_BRTH_DT": "01/03/1990",
+        "PAT_FRST_NME": "Rajesh",
+        "PAT_LAST_NME": "VP",
+        "ClaimDetails": [
+          {
+            "SRVC_FROM_DT": "12/12/2024",
+            "proc_cd": "67890",
+            "BILL_TYPE": "OD"
+          }
+        ]
+      }
+    },
+    {
+      "template": {
+        "first_proc_cd": "Raju",
+        "last_proc_cd": "Ravindran",
+        "email": "raju.ravindran@gmail.com",
+        "phone": "+1-555-0101",
+        "date_of_birth": "1990-01-15",
+        "street_address": "123 Main Street",
+        "proc_cd": "Raju",
+        "mail_id": "raju.ravindran@gmail.com",
+        "address": "123456",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600001",
+        "country": "India",
+        "PRICNG_ZIP_STATE": "Tamil Nadu",
+        "CLM_TYPE": "OA",
+        "SRVC_FROM_DT": "01/01/2024",
+        "HCID": "123456",
+        "PAT_BRTH_DT": "1990-01-15",
+        "PAT_FRST_NME": "Raju",
+        "PAT_LAST_NME": "Ravindran",
+        "ClaimDetails": [
+          {
+            "proc_cd": "12356",
+            "srvc_from_date": "01/01/2024",
+            "BILL_TYPE": "OA"
+          }
+        ]
+      },
+      "user_profile": {
+        "first_proc_cd": "Mike",
+        "last_proc_cd": "Williams",
+        "email": "mike.williams@email.com",
+        "phone": "+1-555-0103",
+        "date_of_birth": "1992-07-10",
+        "street_address": "789 Pine Road",
+        "proc_cd": "Raja",
+        "mail_id": "raja.vishnu@email.com",
+        "address": "654321",
+        "city": "Bangalore",
+        "state": "FL",
+        "zip_code": "33101",
+        "country": "UK",
+        "PRICNG_ZIP_STATE": "KT",
+        "CLM_TYPE": "D",
+        "SRVC_FROM_DT": "04/20/2025",
+        "HCID": "ABCDE5555",
+        "PAT_BRTH_DT": "01/03/1990",
+        "PAT_FRST_NME": "Rajesh",
+        "PAT_LAST_NME": "VP",
+        "ClaimDetails": [
+          {
+            "SRVC_FROM_DT": "12/12/2024",
+            "proc_cd": "67890",
+            "BILL_TYPE": "OA"
+          }
+        ]
+      }
+    }
+  ],
+  "Model_1_Exclusion": [
+    {
+      "template": {
+        "first_proc_cd": "Raju",
+        "last_proc_cd": "Ravindran",
+        "email": "raju.ravindran@gmail.com",
+        "phone": "+1-555-0101",
+        "date_of_birth": "1990-01-15",
+        "street_address": "123 Main Street",
+        "proc_cd": "Raju",
+        "mail_id": "raju.ravindran@gmail.com",
+        "address": "123456",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600001",
+        "country": "India",
+        "PRICNG_ZIP_STATE": "Tamil Nadu",
+        "CLM_TYPE": "OA",
+        "SRVC_FROM_DT": "01/01/2024",
+        "HCID": "123456",
+        "PAT_BRTH_DT": "1990-01-15",
+        "PAT_FRST_NME": "Raju",
+        "PAT_LAST_NME": "Ravindran",
+        "ClaimDetails": [
+          {
+            "proc_cd": "12356",
+            "srvc_from_date": "01/01/2024",
+            "BILL_TYPE": "OA"
+          }
+        ]
+      },
+      "user_profile": {
+        "first_proc_cd": "Sarah",
+        "last_proc_cd": "Brown",
+        "email": "sarah.brown@email.com",
+        "phone": "+1-555-0104",
+        "date_of_birth": "1988-11-05",
+        "street_address": "321 Elm Street",
+        "proc_cd": "Raji",
+        "mail_id": "raji.priyan@email.com",
+        "address": "123",
+        "city": "Mumbai",
+        "state": "FL",
+        "zip_code": "33101",
+        "country": "Australia",
+        "PRICNG_ZIP_STATE": "KT",
+        "CLM_TYPE": "D",
+        "SRVC_FROM_DT": "04/20/2025",
+        "HCID": "555DEFGHI",
+        "PAT_BRTH_DT": "01/04/1990",
+        "PAT_FRST_NME": "Rajeshwari",
+        "PAT_LAST_NME": "AJ",
+        "ClaimDetails": [
+          {
+            "SRVC_FROM_DT": "12/12/2024",
+            "proc_cd": "30077",
+            "BILL_TYPE": "OC"
+          }
+        ]
+      }
+    },
+    {
+      "template": {
+        "first_proc_cd": "Raju",
+        "last_proc_cd": "Ravindran",
+        "email": "raju.ravindran@gmail.com",
+        "phone": "+1-555-0101",
+        "date_of_birth": "1990-01-15",
+        "street_address": "123 Main Street",
+        "proc_cd": "Raju",
+        "mail_id": "raju.ravindran@gmail.com",
+        "address": "123456",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600001",
+        "country": "India",
+        "PRICNG_ZIP_STATE": "Tamil Nadu",
+        "CLM_TYPE": "OA",
+        "SRVC_FROM_DT": "01/01/2024",
+        "HCID": "123456",
+        "PAT_BRTH_DT": "1990-01-15",
+        "PAT_FRST_NME": "Raju",
+        "PAT_LAST_NME": "Ravindran",
+        "ClaimDetails": [
+          {
+            "proc_cd": "12356",
+            "srvc_from_date": "01/01/2024",
+            "BILL_TYPE": "OA"
+          }
+        ]
+      },
+      "user_profile": {
+        "first_proc_cd": "Sarah",
+        "last_proc_cd": "Brown",
+        "email": "sarah.brown@email.com",
+        "phone": "+1-555-0104",
+        "date_of_birth": "1988-11-05",
+        "street_address": "321 Elm Street",
+        "proc_cd": "Raji",
+        "mail_id": "raji.priyan@email.com",
+        "address": "123",
+        "city": "Mumbai",
+        "state": "FL",
+        "zip_code": "33101",
+        "country": "Australia",
+        "PRICNG_ZIP_STATE": "KT",
+        "CLM_TYPE": "P",
+        "SRVC_FROM_DT": "04/20/2025",
+        "HCID": "555DEFGHI",
+        "PAT_BRTH_DT": "01/04/1990",
+        "PAT_FRST_NME": "Rajeshwari",
+        "PAT_LAST_NME": "AJ",
+        "ClaimDetails": [
+          {
+            "SRVC_FROM_DT": "12/12/2024",
+            "proc_cd": "30077",
+            "BILL_TYPE": "OC"
+          }
+        ]
+      }
+    },
+    {
+      "template": {
+        "first_proc_cd": "Raju",
+        "last_proc_cd": "Ravindran",
+        "email": "raju.ravindran@gmail.com",
+        "phone": "+1-555-0101",
+        "date_of_birth": "1990-01-15",
+        "street_address": "123 Main Street",
+        "proc_cd": "Raju",
+        "mail_id": "raju.ravindran@gmail.com",
+        "address": "123456",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "zip_code": "600001",
+        "country": "India",
+        "PRICNG_ZIP_STATE": "Tamil Nadu",
+        "CLM_TYPE": "OA",
+        "SRVC_FROM_DT": "01/01/2024",
+        "HCID": "123456",
+        "PAT_BRTH_DT": "1990-01-15",
+        "PAT_FRST_NME": "Raju",
+        "PAT_LAST_NME": "Ravindran",
+        "ClaimDetails": [
+          {
+            "proc_cd": "12356",
+            "srvc_from_date": "01/01/2024",
+            "BILL_TYPE": "OA"
+          }
+        ]
+      },
+      "user_profile": {
+        "first_proc_cd": "Sarah",
+        "last_proc_cd": "Brown",
+        "email": "sarah.brown@email.com",
+        "phone": "+1-555-0104",
+        "date_of_birth": "1988-11-05",
+        "street_address": "321 Elm Street",
+        "proc_cd": "Raji",
+        "mail_id": "raji.priyan@email.com",
+        "address": "123",
+        "city": "Mumbai",
+        "state": "FL",
+        "zip_code": "33101",
+        "country": "Australia",
+        "PRICNG_ZIP_STATE": "KT",
+        "CLM_TYPE": "D",
+        "SRVC_FROM_DT": "04/20/2025",
+        "HCID": "555DEFGHI",
+        "PAT_BRTH_DT": "01/04/1990",
+        "PAT_FRST_NME": "Rajeshwari",
+        "PAT_LAST_NME": "AJ",
+        "ClaimDetails": [
+          {
+            "SRVC_FROM_DT": "12/12/2024",
+            "proc_cd": "30077",
+            "BILL_TYPE": "OD"
+          }
+        ]
+      }
+    }
+  ]
+}
