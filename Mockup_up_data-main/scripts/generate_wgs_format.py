@@ -14,12 +14,20 @@ SUPPORTED COMMANDS:
 
 import argparse
 import sys
+import os
 from pathlib import Path
+
+# Add the parent directory to Python path so we can import from src
+current_dir = Path(__file__).parent
+parent_dir = current_dir.parent
+sys.path.insert(0, str(parent_dir))
 
 try:
     from src.mockgen.core import MockGenCore
 except Exception as exc:
     print(f"Failed to import core module: {exc}")
+    print(f"Current directory: {os.getcwd()}")
+    print(f"Python path: {sys.path}")
     sys.exit(1)
 
 
