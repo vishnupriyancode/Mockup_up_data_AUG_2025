@@ -1,0 +1,15 @@
+# Mock Data Generation Project Dependencies
+# Python 3.7+ compatible packages
+
+# Core dependencies
+pathlib2>=2.3.7; python_version < "3.4"
+typing-extensions>=4.0.0; python_version < "3.8"
+
+# Optional: for better Windows compatibility
+pywin32>=228; sys_platform == "win32"
+psutil>=5.8.0
+
+# Development dependencies (optional)
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.8.0
